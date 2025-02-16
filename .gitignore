@@ -1,0 +1,6 @@
+*.csv
+*.txt
+*.html
+*.xml
+__pycache__
+credentials.py
